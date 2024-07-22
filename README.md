@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on **MERN STACK Project**
 
-🌱 I’m currently learning springboot framework
+🌱 I’m currently learning cloud computing
 
 💬 Ask me about reactjs,expressjs node and django
 
