@@ -6,16 +6,16 @@
 
 <!-- TYPING DATA -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Shubham+Kumar+Garg;I'm+from+India🕉️;I'm+20+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Shubham+Kumar+Garg;I'm+from+India🕉️;I'm+22+years+old;Welcome!)
 <h3 align="center">I'm a full-stack Developer & Code Hunter , A person who enjoys inventing and discovering new technologies, always eager to learn and stay up-to-date with the latest advancements in the field.</h3>
 <!-- BREVE DESCRIPCION -->
 <div align="center">
   
-- 🔭 I’m currently working on **MERN STACK Project**
+- 🔭 I’m currently working on **full STACK Project**
 
-🌱 I’m currently learning cloud computing
+🌱 I’m currently learning Ai Automation
 
-💬 Ask me about reactjs,expressjs node and django
+💬 Ask me about reactjs,expressjs node  django and cloud computing
 
 📫 How to reach me shubhamkumargarg63@gmail.com
 ```bash
